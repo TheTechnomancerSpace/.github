@@ -1,44 +1,42 @@
 <p align="center">
-  <img src="../assets/cover.png" alt="The Technomancer — Systems & Architecture" width="100%" />
+  <img src="./assets/cover.png" alt="The Technomancer Space" width="100%" />
 </p>
 
-# The Technomancer
+# The Technomancer Space
 
-A **fictional technical entity** used to document, explore, and experiment with backend systems, infrastructure, and software architecture.
+A **fictional technical space** dedicated to exploring software systems, architecture, and engineering concepts through abstraction and experimentation.
 
-This organization serves as a **sandbox and research space** for system design, implementation patterns, and architectural trade-offs — expressed through abstraction and metaphor, but grounded in real technologies.
+This organization exists as a **conceptual lab** — a place to test ideas, document learning, and build experimental systems without product, brand, or personal constraints.
 
 ---
 
 ## Purpose
 
-The Technomancer exists to:
+The Technomancer Space is used to:
 
-- Explore backend architecture and distributed systems
-- Experiment with infrastructure and deployment patterns
-- Document learning through runnable code and diagrams
-- Treat systems as composable, evolvable constructs
+- Explore software systems across different domains
+- Experiment with architecture, design, and implementation patterns
+- Document ideas through runnable code, diagrams, and artifacts
+- Treat software as a composable and evolvable system
 
-This is **not a company**, **not a personal brand**, and **not a product**.  
-It is a **conceptual lab**.
+This is **not a company**, **not a personal profile**, and **not a product**.  
+It is an environment for experimentation.
 
 ---
 
-## Areas of Exploration
+## Scope of Exploration
 
-Repositories in this organization may cover topics such as:
+Repositories in this organization may include work related to:
 
-- JavaScript & TypeScript systems
-- Backend frameworks and API design
-- Containerization and orchestration
-- Cloud infrastructure and deployment
-- Databases and data modeling
-- Async processing and message-driven systems
-- CI/CD and automation
-- System design and architectural patterns
+- Application architecture and system design
+- Frontend, backend, and mobile systems
+- Infrastructure, deployment, and automation
+- Data modeling and persistence strategies
+- Tooling, workflows, and developer experience
+- Proofs of concept, prototypes, and research ideas
 
-Each repository is an **experiment**.  
-Some may be incomplete, opinionated, or abandoned — by design.
+Not all repositories are complete or maintained long-term.  
+Iteration and abandonment are expected.
 
 ---
 
@@ -48,32 +46,32 @@ Some may be incomplete, opinionated, or abandoned — by design.
   Documentation, notes, and conceptual explanations.
 
 - **Rituals**  
-  Practical implementations, prototypes, and runnable systems.
+  Experiments, prototypes, and implementation studies.
 
 - **Artifacts**  
-  Diagrams, configs, pipelines, and infrastructure definitions.
+  Diagrams, configurations, pipelines, and supporting materials.
 
-There is no guarantee of stability or long-term maintenance.
+Each repository represents a **snapshot of exploration**, not a finished product.
 
 ---
 
 ## Philosophy
 
-- Systems over personalities  
+- Systems over identities  
 - Artifacts over narratives  
-- Clarity over cleverness  
-- Learning over polish  
+- Exploration over polish  
+- Learning over permanence  
 
-Metaphor is used as a **lens**, not as a replacement for technical rigor.
-
----
-
-## License & Usage
-
-Unless otherwise stated, code is provided for educational and exploratory purposes.  
-Refer to individual repositories for specific licenses and usage notes.
+Metaphor may be used as a lens, but **technical clarity always comes first**.
 
 ---
 
-> *The Technomancer is an abstraction.  
-> The systems are the truth.*
+## Usage & Licensing
+
+Unless stated otherwise, repositories are shared for educational and exploratory purposes.  
+Refer to individual repositories for licensing details and usage notes.
+
+---
+
+> *This space is an abstraction.  
+> The work within it is real.*
