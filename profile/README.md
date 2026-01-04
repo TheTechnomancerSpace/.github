@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cover.png" alt="The Technomancer — Systems & Architecture" width="100%" />
+  <img src="../assets/cover.png" alt="The Technomancer — Systems & Architecture" width="100%" />
 </p>
 
 # The Technomancer
